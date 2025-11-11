@@ -48,13 +48,13 @@ Tabel hasil pembagian CIDR pada dasarnya adalah hasil dari penerapan metode VLSM
 
 Label `A1` hingga `A7` digunakan untuk mempermudah referensi pada tabel penggabungan.
 
-![Label A1-A7](Assets/A1-A7%20pada%20tabel%20IP%20-%20VSLM%20dan%20CIDR.jpg)
+![Label A1-A7](Assets/A1-A7%20pada%20tabel%20IP%20-%20VSLM%20dan%20CIDR.png)
 
 ## 5. Visualisasi Pembagian CIDR (Pohon CIDR)
 
 Proses pembagian VLSM/CIDR dapat divisualisasikan sebagai "pohon" (akar beranak). Dimulai dari satu blok besar (`/22`), yang kemudian dibagi (dipecah) menjadi cabang-cabang yang lebih kecil (`/23`, `/24`, `/25`, dst.) hingga alokasi "daun" terkecil (`/30`).
 
-![Pohon CIDR](Assets/Pohon%20CIDR.jpg)
+![Pohon CIDR](Assets/Pohon%20CIDR.png)
 
 Visualisasi lain dari pembagian blok IP:
 
