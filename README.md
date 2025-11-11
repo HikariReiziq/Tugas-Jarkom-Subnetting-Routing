@@ -48,7 +48,7 @@ Tabel hasil pembagian CIDR pada dasarnya adalah hasil dari penerapan metode VLSM
 
 Label `A1` hingga `A7` digunakan untuk mempermudah referensi pada tabel penggabungan.
 
-![Label A1-A7](Assets/A1-A7%20pada%20tabel%20IP%20-%20VSLM%20dan%20CIDR.png)
+![Label A1-A7](Assets/A1-A7_VSLM_dan_CIDR.png)
 
 ## 5. Visualisasi Pembagian CIDR (Pohon CIDR)
 
